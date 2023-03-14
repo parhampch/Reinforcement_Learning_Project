@@ -1,0 +1,2 @@
+# Reinforcement_Learning_Project
+I implemented a reinforcement learning and examined it by the Gym library environments. I examined the Mountain Car environment of the Gym library collection. Mountain Car is a Reinforcement Learning task that aims to learn the policy of climbing a steep hill and reaching the flag-marked goal. Also, the car engine is not powerful enough to climb straight up the hill on the right. Therefore, it must gain enough acceleration by climbing the hill on the left.
